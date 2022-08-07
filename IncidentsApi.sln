@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncidentsApi.Host", "IncidentsApi.Host\IncidentsApi.Host.csproj", "{736935C1-922E-441C-B9FE-6EADE7E36EC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IncidentsApi.App", "IncidentsApi.Host\IncidentsApi.App.csproj", "{736935C1-922E-441C-B9FE-6EADE7E36EC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncidentsApi.Data", "IncidentsApi.Data\IncidentsApi.Data.csproj", "{1C04680C-6E97-4B2D-80F9-DC51FBA63179}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IncidentsApi.Data", "IncidentsApi.Data\IncidentsApi.Data.csproj", "{1C04680C-6E97-4B2D-80F9-DC51FBA63179}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

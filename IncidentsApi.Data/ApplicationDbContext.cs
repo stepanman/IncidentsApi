@@ -14,9 +14,11 @@ namespace IncidentsApi.Data
         public DbSet<Account> Accounts { get; set; } 
         public DbSet<Contact> Contacts { get; set; }
 
-        public ApplicationDbContext(DbContextOptions options) : base(options)
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
 
         }
+
+
     }
 }

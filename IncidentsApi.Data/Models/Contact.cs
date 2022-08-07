@@ -13,6 +13,6 @@ public class Contact
 
 
     public string AccountName { get; set; }
-    public Account AccountNavigation { get; set; }
+    public Account? AccountNavigation { get; set; }
 
 }
