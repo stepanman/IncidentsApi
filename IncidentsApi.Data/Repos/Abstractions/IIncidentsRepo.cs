@@ -2,7 +2,7 @@
 using IncidentsApi.Data.Models;
 
 
-namespace IncidentsApi.Data.Repos.Interfaces;
+namespace IncidentsApi.Data.Repos.Abstractions;
 
 public interface IIncidentsRepo
 {

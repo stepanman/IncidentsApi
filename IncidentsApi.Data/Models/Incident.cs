@@ -8,7 +8,7 @@ public class Incident
 
     [Key, DatabaseGenerated(DatabaseGeneratedOption.Identity)]
     public string Name { get; set; }
-
+    [Required]
     public string Description { get; set; }
 
 

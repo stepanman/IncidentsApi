@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "IncidentsApi.Host": {
+    "IncidentsApi.App": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
